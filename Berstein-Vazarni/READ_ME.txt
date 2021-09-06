@@ -38,4 +38,3 @@ Logic for Controlled NOT gate, target bit will flip if and only if the control b
 
 The most important part of this quantum algorithm is, it will do this all in just one step, irrespective of lengh of input bitstring.
 It demonstrates something knows as “quantum supremacy”.
- 
